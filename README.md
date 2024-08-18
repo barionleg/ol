@@ -1,3 +1,16 @@
+# première work on repo = 🍻 ol
+
+*Olympic 2024 PARIS*
+
+https://barionleg.github.io/ol/index.html
+
+![image](https://github.com/user-attachments/assets/4c877f93-7b09-4d18-923e-7532bf7607a9)
+
+
+
+
+
+
 # ci_temp A₽p html [hимик тАбЛи©А℞ мен'Де Лёв]
 
 Temperature Simulation
